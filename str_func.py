@@ -1,4 +1,4 @@
-def str_up(text):
+def get_str_up(text):
     '''Делает все буквы слов строки заглавными'''
     return text.upper()
 
